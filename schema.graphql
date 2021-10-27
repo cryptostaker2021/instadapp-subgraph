@@ -89,7 +89,7 @@ type AccountOwnerList implements IEditableParent @entity {
   id: ID!  # accountId-ownerId
   account: Account!
   owner: Owner!
-  accountOwners: [AccountOwner!]
+  accountOwners: [AccountOwner!] @derivedFrom(field: "accountOwnerList")
   latestVersion: BigInt!
 }
 
