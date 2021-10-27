@@ -1,0 +1,11 @@
+{
+    "network": "rinkeby",
+    "InstaIndex_contract": "0xE2428E2D270993abC9ecD4DB8F5885aA2Bd183B2",
+    "InstaIndex_startBlock": 9504408,
+    "InstaImplementation_contract": "0x0d27e3B6db695b667f0158C3DdF59038EbA10690",
+    "InstaImplementation_startBlock": 9504411,
+    "InstaConnectorV1_contract": "0xD6A602C01a023B98Ecfb29Df02FBA380d3B21E0c",
+    "InstaConnectorV1_startBlock": 9504411,
+    "InstaConnectorV2_contract": "0x447557e8aE5FE141c0438eFB714f497E5aAdB7f3",
+    "InstaConnectorV2_startBlock": 9504410  
+}
