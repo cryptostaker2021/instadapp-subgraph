@@ -1,0 +1,11 @@
+{
+  "network": "goerli",
+  "InstaIndex_contract": "0x4551c8b7bf3b011977481d5A9080DE16327CBCeD",
+  "InstaIndex_startBlock": 5831250,
+  "InstaImplementation_contract": "0xD41c27fd2a05e216052d2aF349e529AeE18F8e05",
+  "InstaImplementation_startBlock": 5831255,
+  "InstaConnectorV1_contract": "0x447557e8aE5FE141c0438eFB714f497E5aAdB7f3",
+  "InstaConnectorV1_startBlock": 5831255,
+  "InstaConnectorV2_contract": "0xa64628d235ceb0B397A44042826859a2b4217f02",
+  "InstaConnectorV2_startBlock": 5831253
+}

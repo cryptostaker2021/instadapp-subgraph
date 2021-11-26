@@ -1,7 +1,6 @@
 # Instadapp Subgraph
 - Mainnet: https://thegraph.com/legacy-explorer/subgraph/niraj-kamdar/instadapp
 - Polygon: https://thegraph.com/legacy-explorer/subgraph/niraj-kamdar/instadapp-polygon
-- Arbitrum: https://thegraph.com/legacy-explorer/subgraph/niraj-kamdar/instadapp-arbitrum
 
 ## Development
 

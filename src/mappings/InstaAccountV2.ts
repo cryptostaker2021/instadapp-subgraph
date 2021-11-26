@@ -1,4 +1,4 @@
-import { LogCastMigrate } from './../../generated/templates/InstaAccountV2/InstaAccountV2';
+import { LogCastMigrate } from "./../../generated/templates/InstaAccountV2/InstaAccountV2";
 import {
   LogCast,
   LogDisableUser,

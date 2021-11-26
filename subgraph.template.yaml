@@ -70,7 +70,7 @@ dataSources:
           handler: handleRemoveImplementation
       file: ./src/mappings/InstaImplementation.ts
 
-  {% if network != "arbitrum-one" %}
+  {% if network != "rinkeby" %}
   - kind: ethereum/contract
     name: InstaConnectorV1
     network: {{network}}
