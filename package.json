@@ -20,8 +20,8 @@
     "deploy:arbitrum": "graph deploy niraj-kamdar/instadapp-arbitrum --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/",
     "deploy:local": "graph deploy niraj-kamdar/instadapp-local --ipfs http://localhost:5001 --node http://127.0.0.1:8020",
     "deploy:studio:mainnet": "graph deploy --studio instadapp-mainnet",
-    "deploy:rinkeyby": "graph deploy cryptostaker2021/stakeall-development --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/ ",
-    "deploy:goerli": "graph deploy cryptostaker2021/stakeall-goerli --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/ "
+    "deploy:rinkeyby": "graph deploy cryptostaker2021/stakeall-development --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/  --access-token 6890d9bc9b704b3ab0e7bc350955c4e0",
+    "deploy:goerli": "graph deploy cryptostaker2021/stakeall-goerli --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/ --access-token 6890d9bc9b704b3ab0e7bc350955c4e0"
   },
   "devDependencies": {
     "@graphprotocol/graph-cli": "^0.20.1",
